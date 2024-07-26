@@ -1,0 +1,30 @@
+.menu-bar {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.menu-item {
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #333;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+.menu-item:hover {
+    text-decoration: underline;
+    
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 50px);
+    text-align: center;
+}

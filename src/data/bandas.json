@@ -1,0 +1,50 @@
+[
+    {
+        "banda": "3agujas",
+        "genero": "alternativo",
+        "departamento": "lima",
+        "img": "https://i.scdn.co/image/ab67616d0000b27315843b7723cf1c1a080c008f"
+    },
+    {
+        "banda": "Claustrofobicos",
+        "genero": "emo",
+        "departamento": "huanuco",
+        "img": "https://i.scdn.co/image/ab67616100005174d0d9f718c7ffb131e3c6562b"
+    },
+    {
+        "banda": "Los Outsaiders",
+        "genero": "pop",
+        "departamento": "lima",
+        "img": "https://i.scdn.co/image/ab67616d00001e02f8c61fd156487497f1f6d5cc"
+    },
+    {
+        "banda": "Suerte Campeon",
+        "genero": "emo",
+        "departamento": "lima",
+        "img": "https://akamai.sscdn.co/letras/192x174/fotos/6/a/8/c/6a8c8755f69c81bde2af9e812b02828a.jpg"
+    },
+    {
+        "banda": "16 bits",
+        "genero": "rock",
+        "departamento": "trujillo",
+        "img": "https://i.scdn.co/image/ab6761610000f17800342fdbaed3e9dcba4ef49f"
+    }
+    ,{
+        "banda": "Maldito Antisocial",
+        "genero": "emo",
+        "departamento": "lima",
+        "img": "https://i.scdn.co/image/ab6761610000e5ebb9acac85e89bd0a9da51f233"
+    },
+    {
+        "banda": "fiesta bizarra",
+        "genero": "Screamo",
+        "departamento": "Trujillo",
+        "img": "https://i.scdn.co/image/ab6761610000e5eb96f49bc34f2e2223ef303a1f"
+    },
+    {
+        "banda": "Gabriela jung",
+        "genero": "Screamo",
+        "departamento": "Trujillo",
+        "img": "https://i.scdn.co/image/ab6761610000e5ebd7f6eef676026a65710ed2f9"
+    }
+]

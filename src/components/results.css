@@ -1,7 +1,6 @@
 .results {
     margin-top: 20px;
     text-align: left;
-    /* Alinear el texto a la izquierda */
 }
 
 .results div {
@@ -19,16 +18,12 @@
 .band-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    /* 4 columnas */
     gap: 20px;
-    /* Espacio entre tarjetas */
 }
 
 .band-card {
 
     padding: 10px;
     border: 1px solid #ddd;
-    /* Borde gris claro */
     text-align: center;
-    /* Centrar el texto */
 }

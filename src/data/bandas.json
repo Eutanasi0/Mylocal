@@ -46,5 +46,11 @@
         "genero": "Screamo",
         "departamento": "Trujillo",
         "img": "https://i.scdn.co/image/ab6761610000e5ebd7f6eef676026a65710ed2f9"
+    },
+    {
+        "banda": "Shosha vs Shosha",
+        "genero": "acustico",
+        "departamento": "Lima",
+        "img": "https://i.scdn.co/image/ab6761610000e5eb62dbd22bcb27348aa18dc60c"
     }
 ]
